@@ -1,5 +1,3 @@
-import React from "react";
-
 export const Card = ({
   title = "For Developers",
   text = "Find the most exciting jobs in React",

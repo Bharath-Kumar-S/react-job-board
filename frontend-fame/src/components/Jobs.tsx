@@ -1,4 +1,3 @@
-import React from "react";
 import { JobsCard } from "./JobsCard";
 
 export const Jobs = () => {
